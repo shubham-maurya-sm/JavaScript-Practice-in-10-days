@@ -13,6 +13,10 @@ const accountPassword='12345678';
 
 // Type 3
 var accountCity='Mumbai';
+/*
+    prefer not to use var
+    because of issue in block scope and functional scope
+*/
 
 // Type 4
 
